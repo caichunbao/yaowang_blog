@@ -1,3 +1,3 @@
 window.onload = function(){
-    //主要代码部分
+    //代码部分
 }
